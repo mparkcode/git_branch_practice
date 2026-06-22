@@ -1,0 +1,28 @@
+body {
+    background-color: lightgray;
+    font-family: Arial, sans-serif;
+    text-align: center;
+}
+
+.container {
+    background-color: white;
+    width: 250px;
+    margin: 40px auto;
+    padding: 20px;
+    border: 2px solid black;
+}
+
+h1 {
+    color: darkblue;
+}
+
+.score {
+    font-size: 48px;
+    margin: 20px;
+}
+
+button {
+    font-size: 20px;
+    padding: 10px;
+    margin: 5px;
+}
